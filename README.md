@@ -6,4 +6,4 @@ Use the text preprocessing script to understand how you can remove noise from th
 Use the text to features script to understand the different ways in which you can convert your text data to analyzable features.
 
 The text_matching script includes codes for Levenshtein matching as well Cosine Matching.
-Levenhtein Matching - The number of changes that need to be made to document A to convert it to document B. Allowable transformations: Insertion, Deletion and single Substitution.
+Levenshtein Matching - The number of changes that need to be made to document A to convert it to document B. Allowable transformations: Insertion, Deletion and single Substitution.
